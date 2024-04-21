@@ -1,3 +1,1 @@
-# WS_supermarket
-# WS_supermarket
-# WS_supermarket
+# WS_supermarket BeautifulSoup - Selenium
